@@ -5,9 +5,10 @@ website:
   title: "IntroWebpage"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html  # Changed from index.qmd to index.html
         text: Home
-      - about.qmd
+      - href: about.html  # Added href for about.html
+        text: About  # Optionally add text for the About link
 
 format:
   html:

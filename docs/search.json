@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IntroWebpage",
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Project",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "My Projects\nHere are some of my projects:\n\nProject 1: Description of project 1.\nProject 2: Description of project 2."
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,12 @@
     "title": "About",
     "section": "Project 1",
     "text": "Project 1\nThis is project 1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IntroWebpage",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

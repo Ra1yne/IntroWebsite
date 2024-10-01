@@ -10,6 +10,8 @@ website:
         text: Home
       - href: about.qmd  # Added href for about.html
         text: About  # Optionally add text for the About link
+      - href: project.qmd  # Link to Projects
+        text: Projects  # Display name for the Projects tab
 
 format:
   html:

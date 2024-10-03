@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site and me"
   },
   {
     "objectID": "about.html#project-1",
@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "IntroWebpage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi"
   }
 ]

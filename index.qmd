@@ -8,7 +8,7 @@ about:
   links: 
     - icon: linkedin
       text: Linkedin
-      href: www.linkedin.com/in/chuazhijie
+      href: https://www.linkedin.com/in/chuazhijie
     - icon: github
       text: Github
       href: https://github.com/Ra1yne 
